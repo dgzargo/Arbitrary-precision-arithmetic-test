@@ -1,0 +1,19 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=115704c0_002Daee5_002D4be3_002D867b_002Da3f4ac45cf0f/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="CtorByCapacityTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.CtorByCapacityTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.CtorByCollectionTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.SetterTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.SetterOutOfRangeTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.InsertTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.GetterOutOfRangeTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.Test&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.IteratorTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.InsertAboveIndexTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.InsertBelowIndexTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.SetterBelowRangeTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.SetterAboveRangeTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.RemoveAtTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::A09C1D75-C116-4061-AF2C-535A9AFD7415::net6.0::UnitTests.BitListTest.CopyToArrayIndexIsOutOfRange&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
